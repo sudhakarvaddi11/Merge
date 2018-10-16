@@ -1,2 +1,2 @@
 # Merge
-This Project Merge deals with Merge Conflicts
+This Project Merge deals with Merge
